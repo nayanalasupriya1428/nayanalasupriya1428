@@ -1,6 +1,6 @@
-## Hi there This is Supriya Nayanala👋
+## Hi there this is Supriya Nayanala👋
 
-<# 💫 About Me:
+ 💫 About Me:
 Computer Science graduate student with hands-on experience in full-stack development and data analytics, using C#, .NET, React, SQL, Python, Azure, and Power BI. Skilled in building backend services, developing user-friendly interfaces, and analyzing data to support decision-making. Actively seeking entry-level or internship roles in Data Analytics, .NET Development, or Cloud/DevOps.
 
 
@@ -17,17 +17,4 @@ Computer Science graduate student with hands-on experience in full-stack develop
 ---
 [![](https://visitcount.itsvg.in/api?id=nayanalasupriya1428&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->!--
-**nayanalasupriya1428/nayanalasupriya1428** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
